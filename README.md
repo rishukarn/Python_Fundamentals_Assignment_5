@@ -9,12 +9,3 @@ Functions and Methods
 Control Statements (Break, Continue, Pass)
 String Manipulation
 Advanced Python (map(), reduce(), filter(), Closures and Decorators)
-Python – Collections, functions and Modules
-List Operations
-Working with Lists
-Tuple
-Accessing Tuples
-Dictionaries
-Working with Dictionaries
-Functions
-Modules.
